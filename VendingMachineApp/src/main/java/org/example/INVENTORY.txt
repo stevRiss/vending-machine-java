@@ -1,0 +1,7 @@
+Cookie::2.75::10::
+LifeSavers::2.00::10::
+Honey bun::3.50::10::
+Gummy bears::2.00::10::
+Pretzels::3.50::9::
+Dentine::1.00::0::
+Doritos::2.00::4::
